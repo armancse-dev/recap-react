@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.myStyle{
+  background-color: lightblue;
+  border: 3px solid blue;
+  margin: 20px;
+  padding: 10px;
+}
